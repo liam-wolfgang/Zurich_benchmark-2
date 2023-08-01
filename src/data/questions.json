@@ -1,0 +1,101 @@
+[
+  {
+    "id": "Q2",
+    "levels": [
+      "Primary School",
+      "Secondary School"
+    ],
+    "title": "School Books",
+    "text": "Thinking about your child / children in {level}, how much did you spend on school books this year on average?",
+    "resultsTab": "School Books",
+    "image": "02Books-min.png",
+    "options": [
+      "Nothing",
+      "Less than €100",
+      "€101 - €200",
+      "€201 - €500",
+      "€501 - €1,000",
+      "€1,001 - €2,000",
+      "€2,000 +"
+    ]
+  },
+  {
+    "id": "Q3",
+    "levels": [
+      "Primary School",
+      "Secondary School"
+    ],
+    "title": "School Uniform",
+    "text": "Thinking about your child / children in {level}, how much did you spend on school uniforms this year on average?",
+    "resultsTab": "School Uniform",
+    "image": "03Uniforms-min.png",
+    "options": [
+      "Nothing",
+      "Less than €100",
+      "€101 - €200",
+      "€201 - €500",
+      "€501 - €1,000",
+      "€1,001 - €2,000",
+      "€2,000 +"
+    ]
+  },
+  {
+    "id": "Q4",
+    "levels": [
+      "Primary School",
+      "Secondary School"
+    ],
+    "title": "School Shoes",
+    "text": "Thinking about your child / children in {level}, how much did you spend on school shoes this year on average?",
+    "resultsTab": "School Shoes",
+    "image": "04Shoes-min.png",
+    "options": [
+      "Nothing",
+      "Less than €100",
+      "€101 - €200",
+      "€201 - €500",
+      "€501 - €1,000",
+      "€1,001 - €2,000",
+      "€2,000 +"
+    ]
+  },
+  {
+    "id": "Q5",
+    "levels": [
+      "Primary School",
+      "Secondary School"
+    ],
+    "title": "Extra Curricular",
+    "text": "Thinking about your child / children in {level}, how much did you spend on extra curricular activities this year on average?",
+    "resultsTab": "Extra Curricular",
+    "image": "05EC-min.png",
+    "options": [
+      "Less than €50",
+      "€50 - €100",
+      "€101 - €200",
+      "€201 - €300",
+      "€301 - €400",
+      "€401 - €500",
+      "€500 +"
+    ]
+  },
+  {
+    "id": "Q6",
+    "levels": [
+      "Third Level"
+    ],
+    "title": "College",
+    "text": "Thinking about your child / children in {level}, how much did you spend on college fees this year on average?",
+    "resultsTab": "Third Level",
+    "image": "07College-min.png",
+    "options": [
+      "Less than €500",
+      "€501 - €1,000",
+      "€1,001 - €2,000",
+      "€2,001 - €5,000",
+      "€5,001 - €10,000",
+      "€10,001 - €20,000",
+      "€20,000 +"
+    ]
+  }
+]

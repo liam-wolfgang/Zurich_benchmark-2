@@ -1,0 +1,23 @@
+{
+  "School Books": {
+    "icon": "08BookIcon.svg",
+    "ctaText": "Read more: 10 Ways to Save on School Books",
+    "ctaLink": "https://www.zurich.ie/blog/save-on-school-books"
+  },
+  "School Uniform": {
+    "icon": "09UniformIcon.svg",
+    "ctaText": "Read more: Easy Ways to Save Money When Buying School Uniforms",
+    "ctaLink": "https://www.zurich.ie/blog/save-money-buying-school-uniforms"
+  },
+  "School Shoes": {
+    "icon": "10ShoesIcon.svg"
+  },
+  "Extra Curricular": {
+    "icon": "11ECIcon.svg"
+  },
+  "Third Level": {
+    "icon": "12CollegeIcon.svg",
+    "ctaText": "Read More: Can I Claim Tax Relief on College Fees?",
+    "ctaLink": "https://www.zurich.ie/blog/claim-tax-relief-college-fees"
+  }
+}

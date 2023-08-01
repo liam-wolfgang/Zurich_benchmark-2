@@ -1,0 +1,372 @@
+{
+  "Q2": {
+    "Primary School": {
+      "average": 222,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.32,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.39,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.28,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.01,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    },
+    "Secondary School": {
+      "average": 393,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0.03,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.17,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.3,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.43,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.03,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0.03,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    }
+  },
+  "Q3": {
+    "Primary School": {
+      "average": 199,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0.14,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.29,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.49,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.08,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    },
+    "Secondary School": {
+      "average": 303,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0.13,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.19,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.35,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.31,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.01,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0.01,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    }
+  },
+  "Q4": {
+    "Primary School": {
+      "average": 166,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0.06,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.46,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.42,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.05,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.01,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    },
+    "Secondary School": {
+      "average": 243,
+      "values": [
+        {
+          "label": "Nothing",
+          "value": 0.03,
+          "relToAvg": "below"
+        },
+        {
+          "label": "Less than €100",
+          "value": 0.43,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.41,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€201 - €500",
+          "value": 0.12,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.01,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€2,000 +",
+          "value": 0,
+          "relToAvg": "above"
+        }
+      ]
+    }
+  },
+  "Q5": {
+    "Primary School": {
+      "average": 283,
+      "values": [
+        {
+          "label": "Less than €50",
+          "value": 0.11,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€50 - €100",
+          "value": 0.24,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.25,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€201 - €300",
+          "value": 0.19,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€301 - €400",
+          "value": 0.04,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€401 - €500",
+          "value": 0.09,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€500 +",
+          "value": 0.08,
+          "relToAvg": "above"
+        }
+      ]
+    },
+    "Secondary School": {
+      "average": 234,
+      "values": [
+        {
+          "label": "Less than €50",
+          "value": 0.19,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€50 - €100",
+          "value": 0.25,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€101 - €200",
+          "value": 0.30,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€201 - €300",
+          "value": 0.11,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€301 - €400",
+          "value": 0.07,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€401 - €500",
+          "value": 0.02,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€500 +",
+          "value": 0.06,
+          "relToAvg": "above"
+        }
+      ]
+    }
+  },
+  "Q6": {
+    "Third Level": {
+      "average": 3391,
+      "values": [
+        {
+          "label": "Less than €500",
+          "value": 0.13,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€501 - €1,000",
+          "value": 0.04,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€1,001 - €2,000",
+          "value": 0.1,
+          "relToAvg": "below"
+        },
+        {
+          "label": "€2,001 - €5,000",
+          "value": 0.53,
+          "relToAvg": "within"
+        },
+        {
+          "label": "€5,001 - €10,000",
+          "value": 0.16,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€10,001 - €20,000",
+          "value": 0.03,
+          "relToAvg": "above"
+        },
+        {
+          "label": "€20,000 +",
+          "value": 0.01,
+          "relToAvg": "above"
+        }
+      ]
+    }
+  }
+}
