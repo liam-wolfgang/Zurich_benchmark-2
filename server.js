@@ -2,6 +2,11 @@ const AWS = require('aws-sdk');
 const nodemailer = require('nodemailer');
 
 exports.handler = async (event) => {
+  const headers = {
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Allow-Origin': 'https://master--vocal-kitten-3c63a8.netlify.app',
+  };
+
   try {
     const data = JSON.parse(event.body);
     
@@ -13,23 +18,18 @@ exports.handler = async (event) => {
       from: 'Wolfgang Digital <fionn@wolfgangdigital.com>',
       to: 'Digital_Team_Ireland@zurich.com',
       subject: 'New Lead | CoE Benchmark Tool',
-      text: `A new user has completed the tool.\n\nEmail: ${data.email}\nOpted in to recieve communications: ${data.optIn ? 'Yes' : 'No'}`
+      text: `A new user has completed the tool.\n\nEmail: ${data.email}\nOpted in to receive communications: ${data.optIn ? 'Yes' : 'No'}`,
     });
-        
+
     return {
       statusCode: 202,
-      headers: {
-        'Access-Control-Allow-Headers': 'ContentType',
-        'Access-Control-Allow-Origin': 'https://master--vocal-kitten-3c63a8.netlify.app'
-      }
+      headers: headers,
     };
   } catch (e) {
+    console.error(e);
     return {
       statusCode: 400,
-      headers: {
-        'Access-Control-Allow-Headers': 'ContentType',
-        'Access-Control-Allow-Origin': 'https://master--vocal-kitten-3c63a8.netlify.app'
-      }
+      headers: headers,
     };
   }
 };
