@@ -20,7 +20,7 @@ exports.handler = async (event) => {
       statusCode: 202,
       headers: {
         'Access-Control-Allow-Headers': 'ContentType',
-        'Access-Control-Allow-Origin': 'https://zurich.ie'
+        'Access-Control-Allow-Origin': 'https://zurich-benchmark-2023-76da8ca19c80.herokuapp.com'
       }
     };
   } catch (e) {
@@ -28,7 +28,7 @@ exports.handler = async (event) => {
       statusCode: 400,
       headers: {
         'Access-Control-Allow-Headers': 'ContentType',
-        'Access-Control-Allow-Origin': 'https://zurich.ie'
+        'Access-Control-Allow-Origin': 'https://zurich-benchmark-2023-76da8ca19c80.herokuapp.com'
       }
     };
   }
