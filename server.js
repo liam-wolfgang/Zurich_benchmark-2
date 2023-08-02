@@ -4,7 +4,7 @@ const nodemailer = require('nodemailer');
 exports.handler = async (event) => {
   const headers = {
     'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Allow-Origin': 'https://master--vocal-kitten-3c63a8.netlify.app',
+    'Access-Control-Allow-Origin': 'https://www.zurich.ie',
   };
 
   try {
